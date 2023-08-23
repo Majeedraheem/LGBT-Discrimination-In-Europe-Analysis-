@@ -12,7 +12,7 @@
   Data is about a survey asked to lesbian, gay, bisexual and transgender (LGBT) people whether they had experienced discrimination, violence, verbal abuse or hate speech on the grounds of their sexual orientation or gender identity. The results reflect the experiences of more than 93,000 individuals who completed the online survey across Europe.
 
 ## Goal:
-  To conduct exploratory analysis that find insights for better recommendation decision making and improve equality. 
+  To conduct exploratory analysis that find insights for better recommendation decision making and improve equality.
 
 
 
@@ -42,7 +42,7 @@
 
 
   **What percentage of LGBT community had sexual attack or threat of violence at home**
-![What percentage of LGBT community had sexual attack or threat of violence at home ](Images/Sexual_Attacks.png)
+![What percentage of LGBT community had sexual attack or threat of violence at home ](Images/SexualAttacks.png)
 
 
 
